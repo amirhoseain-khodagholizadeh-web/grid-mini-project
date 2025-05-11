@@ -1,6 +1,8 @@
 # Grid mini project 
 
-**This is my mini project I wrote it by grid system**
+**This is my mini project I wrote it by grid system**  
+
+without responsive
 
 ![viewfinal](https://github.com/amirhoseain-khodagholizadeh-web/grid-mini-project/blob/main/assets/images/Capture.PNG)
 
